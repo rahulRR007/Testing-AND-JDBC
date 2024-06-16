@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\rahul\\Downloads\\selenium-server-4.20.0.jar",
+            "c:\\Users\\rahul\\OneDrive\\Desktop\\Testing Course\\testng-7.4.0.jar",
+            "c:\\Users\\rahul\\Downloads\\jcommander-1.27.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\rahul\\Downloads\\testng-7.4.0.jar"
+        ]
+    },
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.compile.nullAnalysis.mode": "automatic"
+}
